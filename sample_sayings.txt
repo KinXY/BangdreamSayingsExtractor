@@ -1,0 +1,299 @@
+Others: "Wh-what are you saying? Don't you remember what it is we did all of that practicing for?"
+Yukina: "Roselia exists to bring out of us the best music that we can possibly create...",
+
+Others: "... Ah! ... I'm sorry. I didn't think anyone else was here."
+Yukina: "I watched you perform up there today.",
+
+Others: "... Even if you keep practicing, you won't be able to sing it like you did before."
+Yukina: "How do you know that...?",
+
+Others: "Roselia is a band that the five of us formed."
+Yukina: "So I was worried about what would happen if we involved other people in it too...",
+
+Others: "You think so? I could never be better than you two."
+Yukina: "Someday, I wanna be just as good as daddy, but I'm not sure how to do that.",
+
+Others: "And we still haven't found anyone to play keyboard..."
+Yukina: "It's incredible enough that we four managed to get together in such a short time. I don't want to make compromises just to get a fifth.",
+
+Others: "Y-you're welcome! By the way, we'd love to go to another one of Roselia's concerts!"
+Yukina: "Yeah... That'd be nice.",
+
+Others: "... I..."
+Yukina: "...",
+
+Others: "S-so what do you think?! How do you feel about debuting under our agency?"
+Yukina: "...",
+
+Others: "Hmm? Ako? What are you doing here?"
+Yukina: "... Do you know her, Lisa?",
+
+Others: "This song is crucial for Roselia's future... We will perform it as well as we have previously..."
+Yukina: "No, we must do so. That is how we will reach the future we have chosen for ourselves...",
+
+Others: "My superiors said that they're sure it would gain a lot of press and reach people who have never even heard of Roselia...!"
+Yukina: "...",
+
+Others: "It's true. The whole band has improved well, in such a short time, too. That goes for you too, Ako, Rinko."
+Yukina: "If we are to go forward together, the five of us... Ako, Rinko... Lisa. It's time we told you about our goal.",
+
+Others: "...~♪"
+Yukina: "...",
+
+Others: "......"
+Yukina: "......",
+
+Others: "I thought I felt a strange kind of synergy..."
+Yukina: "Okay. Ako, Rinko-san... and Lisa. We will try performing live at our next event, the five of us.",
+
+Others: "Not at all! I think it's a great goal!"
+Yukina: "...!",
+
+Others: "No, that is not it. I just wanted to ask all of your opinions once again."
+Yukina: "We have previously discussed what path we think Roselia should proceed down...",
+
+Others: "Minato-san. Does Imai-san have experience playing the bass guitar?"
+Yukina: "She does. I think she should still be able to perform the basics.",
+
+Others: "Nothing's gotten into me. If you can't live up to this band's standards, you will be removed. This is something I've been saying since the very beginning."
+Yukina: "... Ako! The tempo is all over the place.",
+
+Others: "In that case, perhaps it is Kirigaya-san that you should be thanking."
+Yukina: "You mentioned that you occasionally give her guitar lessons, but does that have some connection with this?",
+
+Others: "They do say this event is like a gateway to success for local bands like ours. But we're not exactly looking for a break like this..."
+Yukina: "She's right. We have our sights set much higher than that. A major debut is not everything. And we don't need anyone who doesn't think the same, Ako.",
+
+Others: "Everyone has their issues. The reason we hold on to them is because we can't let go. All we can do is keep moving on... right?"
+Yukina: "... Sayo...",
+
+Others: "... I was so surprised. I never thought you would say something like that, Yukina."
+Yukina: "Was it really that surprising?",
+
+Others: "That's right. And with the way you're crying about something so insignificant, I can see exactly where you're headed."
+Yukina: "If you're gonna act like a spoiled brat, then you don't belong in this band.",
+
+Others: "I was nervous since we have not participated in that event before, but I am glad that we all did our very best."
+Yukina: "Being more thorough than usual during set-up was the correct decision. I think the outcome was better than I had expected.",
+
+Others: "It's been so long~. It feels good to breathe this studio air again☆ I haven't been here since, what, 8th grade?"
+Yukina: "7th. Have you forgotten already? You spent your whole 8th grade summer at the beach.",
+
+Others: "We've already decided the road we're going down, haven't we, Yukina?"
+Yukina: "Yes, so let's go down it. Toward the shining future of Roselia...!",
+
+Others: "... Oh, right. The outro on our last song, my chord change came in too late. I truly apologize for ruining the performance."
+Yukina: "...! You're right, it was a little late. I don't think anyone noticed, though.",
+
+Others: "(I do not particularly wish for Roselia to be a band that is supported by the masses...)"
+Yukina: "Is there light down this road...?",
+
+Others: "She's called Yukina, and she really is one of the coolest people ever! I just know as soon as you hear her voice, you'll be hooked just like me!"
+Yukina: "......",
+
+Others: "Okay~! I'll just have to practice like crazy, then~!"
+Yukina: "Once we have our members, we'll be entering a contest to perform at Future World Fes. Do you understand?",
+
+Others: "If debuting under a major label requires you to sacrifice your determination and beliefs... then that would mean now is not the time for Roselia to debut."
+Yukina: "Sayo...",
+
+Others: "Isn't that the reason most people even make bands anyway?"
+Yukina: "If I can sing well...",
+
+Others: "Yes, see you."
+Yukina: "We should get going too once we have finished cleaning up these flyers. I shall further research the events we picked out later.",
+
+Others: "S-sorry, sorry! We were just doing some pre-show chanting to psyche ourselves up☆ I wish you two would have joined us~."
+Yukina: "That's enough. You should ready yourselves long before you arrive, otherwise we are all in trouble.",
+
+Others: "Yes, we are still deciding on our direction as a band from here on-"
+Yukina: "Wait.",
+
+Others: "(If we cannot express those feelings, then we cannot play this song.)"
+Yukina: "(I understand this... and yet, I cannot sing it like I used to...)",
+
+Others: "......"
+Yukina: "The whole band has improved well, in such a short time, too. That goes for you too, Ako, Rinko.",
+
+Others: "Maybe it's because I see myself even more as a part of this band now. Sometimes I even imagine the future of our band."
+Yukina: "I see...",
+
+Others: "......"
+Yukina: "(I am going to become bigger than he ever was and... I am going to make him smile again...)",
+
+Others: "Welp, can't really do much about that. No problem! We can take our time once we're done with the concert♪"
+Yukina: "Everyone, I've done some thinking about our set list for SMS. Take a look.",
+
+Others: "The same is true for you."
+Yukina: "For me...?",
+
+Others: "What happened to Yukina-san...?"
+Yukina: "(We have to bring it all back...)",
+
+Others: "Welp, can't really do much about that. No problem! We can take our time once we're done with the concert♪"
+Yukina: "I appreciate you putting that off. I believe we'll need to increase our rehearsal time in preparation for this.",
+
+Others: "(... I don't... ... I don't know what to do, either...)"
+Yukina: "I... I have to join the festival! For my father! I've always said as much, haven't I?!",
+
+Others: "...! And why's that?! Because I'm not good enough?"
+Yukina: "That's right. And with the way you're crying about something so insignificant, I can see exactly where you're headed.",
+
+Others: "I understand. I'll wait as long as you need to come up with an answer. I'll see you again."
+Yukina: "... Okay.",
+
+Others: "(I am going to become bigger than he ever was and... I am going to make him smile again...)"
+Yukina: "That's why... I don't have time for worries...!",
+
+Others: "..."
+Yukina: "There is no need to apologize. If there is a problem, we only need fix it. That is what practice is for, is it not?",
+
+Others: "There's no need to rush anyway. Let's find our own way at our own pace."
+Yukina: "... You are right. If this is what you have all decided, then I too will not regret this decision.",
+
+Others: "(Dad threw away all of his old music magazines... but I managed to keep hold of just one...)"
+Yukina: "......",
+
+Others: "Yeah! That's why I don't wanna lose to them! We've gotta show the world how cool Roselia is!"
+Yukina: "... I see. What do you think, Rinko?",
+
+Others: "... Friends? You don't need instruments, studios, and live houses to make friends. You can chat amongst yourselves in a cafe, like regular school kids."
+Yukina: "(... She thinks just like me. A high school student, too...)",
+
+Others: "Yukina. Is it true? Is all of it true?"
+Yukina: "So what if it is?",
+
+Others: "Anything that is necessary for Roselia is not something I would hesitate to do."
+Yukina: "I believe that is how it has been up until now.",
+
+Others: "You remember our last performance, don't you? It's obvious we still have something we're lacking."
+Yukina: "When something is inadequate, you make it adequate. That's all there is to it. This goes especially for you, Ako. If you don't refine your skills, you will fall behind.",
+
+Others: "The junior division... We'd only be opening for the pros to follow, but the event rivals Future World Fes itself. We have to get focused and prepare ourselves."
+Yukina: "Certainly. Let's make this a performance that'll bring us closer to Future World Fes.",
+
+Others: "Minato-san, may I ask you one thing first?"
+Yukina: "What is it?",
+
+Others: "I don't know!"
+Yukina: "I don't know what else we could possibly do! And I can't figure out any other way... That's why...!",
+
+Others: "No, I guess we haven't..."
+Yukina: "I can see CiRCLE. We must properly prepare for tomorrow's show.",
+
+Others: "Roselia's Drummer of Darkness is ready to give it all she's got, too! Roselia... It's such a cool sounding name... How did you come up with it, by the way?"
+Yukina: "It's a rose and a camellia. A blue rose, to be specific... ... That is my image of our band...",
+
+Others: "Can you see... a path of blue roses leading to your future now, Yukina?"
+Yukina: "Yes, I believe I can see a light at the end of this tunnel.",
+
+Others: "Y-yeah. You're right..."
+Yukina: "Now, let's go home before it gets late.",
+
+Others: "Ah, right. If we're going to talk more about this, I should get you to come to the agency. I'll contact you soon about the date."
+Yukina: "Okay, please do.",
+
+Others: "Mmm. I guess you're right. Thanks for the chat! I feel better getting it all off my chest. I'm gonna go get some dinner. See ya☆"
+Yukina: "......",
+
+Others: "I'm guessing it means that "LOUDER" is a very important song to you all, right?"
+Yukina: "That song is proof of my father's unachieved dream.",
+
+Others: "A-ahaha... My bad. I was just so happy, it got the best of me."
+Yukina: "I, too, am pleased to have someone come directly to us and ask us to participate in SMS. The other members and I can also sense the overall better mood that surrounds the band.",
+
+Others: "Udagawa-san, Imai-san. This is a public area. Try to have a little more decorum."
+Yukina: "Excuse me. Could I make another studio reservation?",
+
+Others: "That means I would be- I must not stop everyone's progress."
+Yukina: "Just as you all lent me your strength... to make the dream my father could not achieve come true...",
+
+Others: "(What is this feeling...? I... I don't think I've ever felt this... This at peace before...)"
+Yukina: "(... I have no thoughts, my mind is clear... All I need is to sing...)",
+
+Others: "Shh, she'll hear you. She's not the type to forgive that talk, either."
+Yukina: "......",
+
+Others: "Yukina~☆ I was just about to go check out that new accessory store. Do you wanna come-"
+Yukina: "Not interested. ... Early start tonight. I need to hurry.",
+
+Others: "Yes. Thanks to you, my mindset has changed."
+Yukina: "Just as I thought, you always lead those who are lost.",
+
+Others: "I knew that entering a new world would mean that something would change. I thought that would perhaps be the fulfilling time we spend on our music."
+Yukina: "That is why I did not reveal my true feelings to you all. As you saw our future in this new world.",
+
+Others: "You were already so good at singing, and I... I had to practice so hard to keep up with you... But it was always so much fun..."
+Yukina: "I don't want to hear about the past. I have to go... I have things to do.",
+
+Others: "That's right! Yukina-san, you'll hurt your throat if you keep singing like this!"
+Yukina: "You need not worry, I am fine. Let's continue.",
+
+Others: "W-we have...?"
+Yukina: "Yes, the way you both interpret music and focus during performances has improved.",
+
+Others: "Yes!"
+Yukina: "... Sayo... Everyone...",
+
+Others: "That is it! I cannot be in this band with her any more!"
+Yukina: "...!",
+
+Others: "(Moca and Ran will be fine, I'm sure. But me... I have to go and make things right.)"
+Yukina: "(A message from the agency... I know I should read it, but...)",
+
+Others: "(It's possible that the answer I've been looking for lies within that "something" that I felt when I heard Toyama-san and the others play...)"
+Yukina: "(Maybe, without realizing it, I came here looking for that answer.)",
+
+Others: "So you're finally starting up a band~. I was starting to get worried, you never seem to hang out with anyone other than me~."
+Yukina: "Lisa... I really am serious about this. Sayo and I share the same goal, of playing the Future World Fes. That's why we've come together.",
+
+Others: "So how was the test, Yukina? Do you wanna hear my results? Do you?"
+Yukina: "...... I have more important things on my mind right now.",
+
+Others: "(The road ahead wasn't clear to me though. Somewhere, in the corner of my heart, I continued to feel as if something was off about my sentiment toward singing...)"
+Yukina: "(Now I might be able to say I like it, just a little bit.)",
+
+Others: "..."
+Yukina: "(What was it about today's performance that made the audience leave?)",
+
+Others: "What exactly... is different...?"
+Yukina: "... Now, let's start from two measures back.",
+
+Others: "What do you mean, exactly?"
+Yukina: "I didn't fully understand my own feelings. I didn't fully understand the relationship we all have together. And I apologize for that.",
+
+Others: "Yukina-san...!"
+Yukina: "Ako, Rinko...",
+
+Others: "...? Yukina? What are you staring at?"
+Yukina: "... The stage we are going to stand on today.",
+
+Others: "It was not just you. Lisa, Rinko, and Ako all had reasons to go down this road."
+Yukina: "That means I would be- I must not stop everyone's progress.",
+
+Others: "I'm serious. This is everything to me. I'm going to make the perfect band. Fun and enjoyment have nothing to do with it."
+Yukina: "Here's the live house. Aren't you going to the accessory store?",
+
+Others: "Yukina-senpai~!!"
+Yukina: "Toyama-san, nicely done.",
+
+Others: "You know, I thought music agencies would be much more uptight..."
+Yukina: "It seems they are more flexible than I had thought.",
+
+Others: "In that case, Harumi-san is just the person for us!"
+Yukina: "...",
+
+Others: "But still, the accessory store's right by the live house, right? I'm just saying we could at least walk there together♪"
+Yukina: "......",
+
+Others: "The... next song...?"
+Yukina: "Is something the matter?",
+
+Others: "Solo practice?"
+Yukina: "... I still don't know how to restore Roselia, so I came to sing... But it seems like that was pointless.",
+
+Others: "......"
+Yukina: "Ah...",
+
+Others: "(This band... The guitarist is great. The rest aren't worth mentioning. Their whole balance is off...)"
+Yukina: "(... But that girl... Her phrasing is one thing, but even the basics are far beyond normal skill...)"
